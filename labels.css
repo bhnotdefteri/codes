@@ -1,0 +1,191 @@
+#iCats .HTML .title svg{fill:var(--iqraa-whitemain-color);width:23px;height:23px;position:absolute;left:22px;top:12px;}
+#iCats .icatswidgets .widget-content{float:right;width:100%;box-sizing:border-box;padding:15px;margin:0;background-color:var(--iqraa-pbcolor)}
+#iCats{display:block;width:100%;overflow:hidden;padding:0}
+#iCats .icatswidgets{overflow:hidden;display:grid;grid-template-columns: 1fr 1fr 1fr;grid-gap:15px;}
+#iCats .icatswidgets .widget {
+  padding: 0 0 0 0;
+  display: inline-block;
+  width: 100%;
+  border: 2px solid var(--iqraa-submain-color);
+  margin-bottom: 20px;
+}
+.icatswidgets .Label .widget-title > h2{
+  position: relative;
+  display: block;
+  height: 45px;
+  background-color: var(--iqraa-submain-color);
+  font-size: 23px;
+  color: var(--iqraa-mainwhite-color);
+  font-weight: 700;
+  line-height: 45px;
+  padding: 5px 15px;
+  margin: 0;
+  border-bottom: 2px solid var(--iqraa-main-color);
+}
+
+
+
+#Label1 .widget-title > h2,#Label16 .widget-title > h2 {color: #7d0404;border-bottom-color: #7d0404;}
+#Label1 .widget-title > h2:hover,#Label16 .widget-title > h2:hover{background: #7d0404;color:var(--iqraa-submain-color)!important}
+#Label1 .title:after,#Label1 .list-label .label-count,#Label16 .title:after,#Label16 .list-label .label-count {background: #7d0404;}
+#Label1 .list-label li a:hover,#Label16 .list-label li a:hover{color: #7d0404;}
+#Label1 .list-label li a:hover svg,#Label16 .list-label li a:hover svg{fill: #7d0404;}
+
+#Label2 .widget-title > h2,#Label17 .widget-title > h2 {color: #047d22;border-bottom-color: #047d22;}
+#Label2 .widget-title > h2:hover,#Label18 .widget-title > h2:hover{background: #047d22;color:var(--iqraa-submain-color)!important}
+#Label2 .title:after,#Label2 .list-label .label-count,#Label18 .title:after,#Label18 .list-label .label-count {background: #047d22;}
+#Label2 .list-label li a:hover,#Label18 .list-label li a:hover{color: #047d22;}
+#Label2 .list-label li a:hover svg,#Label18 .list-label li a:hover svg{fill: #047d22;}
+
+
+#Label3 .widget-title > h2,#Label19 .widget-title > h2 {color: #7d4804;border-bottom-color: #7d4804;}
+#Label3 .widget-title > h2:hover,#Label19 .widget-title > h2:hover{background: #7d4804;color:var(--iqraa-submain-color)!important}
+#Label3 .title:after,#Label3 .list-label .label-count,#Label9 .title:after,#Label9 .list-label .label-count  {background: #7d4804;}
+#Label3 .list-label li a:hover,#Label19 .list-label li a:hover{color: #7d4804;}
+#Label3 .list-label li a:hover svg,#Label19 .list-label li a:hover svg{fill: #7d4804;}
+
+#Label4 .widget-title > h2,#Label20 .widget-title > h2 {color: #04727d;border-bottom-color: #04727d;}
+#Label4 .widget-title > h2:hover,#Label20 .widget-title > h2:hover{background: #04727d;color:var(--iqraa-submain-color)!important}
+#Label4 .title:after,#Label4 .list-label .label-count,#Label20 .title:after,#Label20 .list-label .label-count  {background: #04727d;}
+#Label4 .list-label li a:hover,#Label20 .list-label li a:hover{color: #04727d;}
+#Label4 .list-label li a:hover svg,#Label20 .list-label li a:hover svg{fill: #04727d;}
+
+#Label5 .widget-title > h2,#Label21 .widget-title > h2 {color: #0b265b;border-bottom-color: #0b265b;}
+#Label5 .widget-title > h2:hover,#Label21 .widget-title > h2:hover{background: #0b265b;color:var(--iqraa-submain-color)!important}
+#Label5 .title:after,#Label5 .list-label .label-count,#Label21 .title:after,#Label21 .list-label .label-count  {background: #0b265b;}
+#Label5 .list-label li a:hover,#Label21 .list-label li a:hover{color: #0b265b;}
+#Label5 .list-label li a:hover svg,#Label21 .list-label li a:hover svg{fill: #0b265b;}
+
+#Label6 .widget-title > h2 {color: #2a047d;border-bottom-color: #2a047d;}
+#Label6 .widget-title > h2:hover{background: #2a047d;color:var(--iqraa-submain-color)!important}
+#Label6 .title:after,#Label6 .list-label .label-count  {background: #2a047d;}
+#Label6 .list-label li a:hover{color: #2a047d;}
+#Label6 .list-label li a:hover svg{fill: #2a047d;}
+
+#Label7 .widget-title > h2 {color: #6e047d;border-bottom-color: #6e047d;}
+#Label7 .widget-title > h2:hover{background:#6e047d;color:var(--iqraa-submain-color)!important}
+#Label7 .title:after,#Label7 .list-label .label-count {background:#6e047d;}
+#Label7 .list-label li a:hover{color:#6e047d;}
+#Label7 .list-label li a:hover svg{fill:#6e047d;}
+
+#Label8 .widget-title > h2 {color: #7d6404;border-bottom-color:#7d6404;}
+#Label8 .widget-title > h2:hover{background:#7d6404;color:var(--iqraa-submain-color)!important}
+#Label8 .title:after,#Label7 .list-label .label-count {background:#7d6404;}
+#Label8 .list-label li a:hover{color:#7d6404;}
+#Label8 .list-label li a:hover svg{fill:#7d6404;}
+
+#Label9 .widget-title > h2 {color: #577d04;border-bottom-color: #577d04;}
+#Label9 .widget-title > h2:hover{background:#577d04;color:var(--iqraa-submain-color)!important}
+#Label9 .title:after,#Label7 .list-label .label-count {background:#577d04;}
+#Label9 .list-label li a:hover{color:#577d04;}
+#Label9 .list-label li a:hover svg{fill:#577d04;}
+
+#Label10 .widget-title > h2 {color: #f89a1e;border-bottom-color: #f89a1e;}
+#Label10 .widget-title > h2:hover{background: #f89a1e;color:var(--iqraa-submain-color)!important}
+#Label10 .title:after,#Label10 .list-label .label-count {background: #f89a1e;}
+#Label10 .list-label li a:hover{color: #f89a1e;}
+#Label10 .list-label li a:hover svg{fill: #f89a1e;}
+
+#Label11 .widget-title > h2 {color: #7d042c;border-bottom-color: #7d042c;}
+#Label11 .widget-title > h2:hover{background:#7d042c;color:var(--iqraa-submain-color)!important}
+#Label11 .title:after,#Label7 .list-label .label-count {background:#7d042c;}
+#Label11 .list-label li a:hover{color:#7d042c;}
+#Label11 .list-label li a:hover svg{fill:#7d042c;}
+
+#Label12 .widget-title > h2 {color: #a509bb;border-bottom-color: #a509bb;}
+#Label12 .widget-title > h2:hover{background:#a509bb;color:var(--iqraa-submain-color)!important}
+#Label12 .title:after,#Label7 .list-label .label-count {background:#a509bb;}
+#Label12 .list-label li a:hover{color:#a509bb;}
+#Label12 .list-label li a:hover svg{fill:#a509bb;}
+
+#Label13 .widget-title > h2 {color: #092dbb;border-bottom-color: #092dbb;}
+#Label13 .widget-title > h2:hover{background: #092dbb;color:var(--iqraa-submain-color)!important}
+#Label13 .title:after,#Label13 .list-label .label-count {background: #092dbb;}
+#Label13 .list-label li a:hover{color: #092dbb;}
+#Label13 .list-label li a:hover svg{fill: #092dbb;}
+
+#Label14 .widget-title > h2 {color: #239787;border-bottom-color: #239787;}
+#Label14 .widget-title > h2:hover{background: #239787;color:var(--iqraa-submain-color)!important}
+#Label14 .title:after,#Label14 .list-label .label-count {background: #239787;}
+#Label14 .list-label li a:hover{color: #239787;}
+#Label14 .list-label li a:hover svg{fill: #239787;}
+
+#Label15 .widget-title > h2 {color: #d30378;border-bottom-color: #d30378;}
+#Label15 .widget-title > h2:hover{background: #d30378;color:var(--iqraa-submain-color)!important}
+#Label15 .title:after,#Label15 .list-label .label-count {background: #d30378;}
+#Label15 .list-label li a:hover{color: #d30378;}
+#Label15 .list-label li a:hover svg{fill: #d30378;}
+
+#iCats .Label .title svg{
+  width: 30px;
+  height: 30px;
+left: 25px;
+top: 14px;
+}
+#iCats .Label .title:after{
+width: 45px;
+height: 45px;
+
+}
+
+#iCats .list-label a:hover .label-count {
+  background: var(--iqraa-submain-color);
+  color: var(--iqraa-mainwhite-color);
+}
+
+
+.iqraa-DM .Label .widget-title > h2{
+  color: var(--iqraa-white-color) !important;
+  border-bottom-color: var(--iqraa-white-color)!important;
+}
+.iqraa-DM .Label .widget-title > h2:hover {
+  background: var(--iqraa-white-color) !important;
+}
+
+.iqraa-DM #iCats .Label .title::after {
+  background: var(--iqraa-white-color) !important;
+}
+
+.iqraa-DM .Label .list-label .label-count {
+  background: var(--iqraa-white-color) !important;
+color: var(--iqraa-main-color) !important;
+}
+
+.iColoredLabelsTitle svg{
+  fill: var(--iqraa-whitemain-color);
+  width: 27px;
+  height: 27px;
+  position: absolute;
+  right: 11px;
+  top: 12px;
+}
+
+
+.iColoredLabelsTitle{border-radius:3px;margin-bottom:10px;padding:5px 15px;color:var(--iqraa-mainwhite-color);background-color:var(--iqraa-submain-color);font-size:17px;line-height:34px;display:flex;flex-direction:row;align-items:center;justify-content:space-between;border:2px solid var(--iqraa-border-color);}
+.iColoredLabelsTitle > h2:before{
+  margin-left: 10px;
+  background: var(--iqraa-mainwhite-color);
+  color: var(--iqraa-whitemain-color);
+  border-radius: 100%;
+  width: 42px;
+  font-size: 18px;
+  text-align: center;
+  height: 42px;
+  float: right;
+  content: '';
+}
+.iColoredLabelsTitle > h2{
+  position: relative;
+  display: block;
+  height: 45px;
+  background-color: var(--iqraa-submain-color);
+  font-size: 21px;
+  color: var(--iqraa-mainwhite-color);
+  font-weight: 700;
+  line-height: 45px;
+  padding: 5px;
+  margin: 0;
+}
+
+
+@media screen and (max-width: 880px) {#iCats .icatswidgets{grid-template-columns: 1fr;}}
